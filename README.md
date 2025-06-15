@@ -5,8 +5,15 @@
     nextflow version 25.04.3.5949
     R version 4.4.3 (2025-02-28) -- "Trophy Case"
 
-**Forma de utilizar:**
+**Codigos a correr:**
 
+código para correr o fastqc:
+    
+    fastqc *.gz
+    
+código para correr o multiqc:
+    
+    multiqc ./
 
 Atualizar a vm:
 
