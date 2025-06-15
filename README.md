@@ -9,14 +9,18 @@
 Atualizar a vm:
 
     sudo apt update
+    
+Ativar o micromamba/conda:
+
+    micromamba activate / conda activate
 
 instalar o fastqc:
 
-    conda install  fastqc
+    micromamba install  fastq / conda install  fastqc
 
 instalar o multiqc:
 
-    conda install multiqc
+    micromamba install multiqc / conda install multiqc
 
 instalar o docker:
 
@@ -31,11 +35,14 @@ código para correr o multiqc:
     
     multiqc ./
 
-Ativar o micromamba/conda:
+instalar o Silva:
+    mkdir ~/databases
+    cd ~/databases
+    wget https://mothur.s3.us-east-2.amazonaws.com/wiki/silva.seed_v138_1.tgz
+    tar xfv silva.seed_v138_1.tgz
+    rm silva.seed_v138_1.tgz
 
-    micromamba activate / conda activate
-
-Instalar o :
+Instalar o repusitorio :
 
     git clone https://github.com/hawaiidatascience/metaflowmics.git
 
