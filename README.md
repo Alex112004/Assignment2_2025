@@ -22,7 +22,11 @@ Correr nextflow com as novvas configurações e utilizar o comando -profile dock
     nextflow run main.nf -c nextflow.config -profile docker -resume
 
 **Colaboradores:**
+    
     Alexandre Soares
+    
     Sara Sampaio
+    
     Maria Eduarda Oiveira
+    
     Biatrix Venâncio
