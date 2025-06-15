@@ -2,10 +2,8 @@
     
     FastQC v0.12.1    
     multiqc, version 1.29
-    
-    nextflow version 25.04.3.5949
-    
-    R version 4.4.3 (2025-02-28) -- "Trophy Case"
+    nextflow version 25.04.3.5949
+    R version 4.4.3 (2025-02-28) -- "Trophy Case"
 
 **Forma de utilizar:**
 
