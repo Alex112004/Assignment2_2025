@@ -52,7 +52,7 @@ Abir a pasta da pipeline do 16S:
 
     cd metaflowmics/metaflowmics/Pipeline-16S/
 
-Correr nextflow com as novvas configurações e utilizar o comando -profile docker para correr dentro de uma imagem docker com os softwares necessários:
+Correr nextflow com as novas configurações e utilizar o comando -profile docker para correr dentro de uma imagem docker com os softwares necessários:
 
     nextflow run main.nf -c nextflow.config -profile docker -resume
 
