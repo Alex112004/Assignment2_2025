@@ -6,7 +6,22 @@
     R version 4.4.3 (2025-02-28) -- "Trophy Case"
 
 **Codigos a correr:**
+Atualizar a vm:
 
+    sudo apt update
+
+instalar o fastqc:
+
+    conda install  fastqc
+
+instalar o multiqc:
+
+    conda install multiqc
+
+instalar o docker:
+    sudo apt install docker.io docker-compose
+    sudo usermod -aG docker $USER
+    
 código para correr o fastqc:
     
     fastqc *.gz
@@ -14,10 +29,6 @@ código para correr o fastqc:
 código para correr o multiqc:
     
     multiqc ./
-
-Atualizar a vm:
-
-    sudo apt update
 
 Ativar o micromamba/conda:
 
