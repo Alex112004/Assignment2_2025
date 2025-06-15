@@ -1,7 +1,6 @@
 **Versões dos softwares utilizados:**
     
-    FastQC v0.12.1
-    
+    FastQC v0.12.1    
     multiqc, version 1.29
     
     nextflow version 25.04.3.5949
