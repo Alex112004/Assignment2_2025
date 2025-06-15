@@ -6,6 +6,7 @@
     R version 4.4.3 (2025-02-28) -- "Trophy Case"
 
 **Codigos a correr:**
+
 Atualizar a vm:
 
     sudo apt update
