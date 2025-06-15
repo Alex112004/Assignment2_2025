@@ -36,7 +36,7 @@ Código para correr o multiqc:
     
     multiqc ./
 
-instalar o Silva:
+Encontrar e identificar taxonomia:
 
     mkdir ~/databases
     cd ~/databases
