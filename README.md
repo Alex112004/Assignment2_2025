@@ -23,10 +23,10 @@ Correr nextflow com as novvas configurações e utilizar o comando -profile dock
 
 **Colaboradores:**
     
--- Alexandre Soares
+ - Alexandre Soares
     
--- Sara Sampaio
+ - Sara Sampaio
     
--- Maria Eduarda Oiveira
+ - Maria Eduarda Oiveira
     
--- Biatrix Venâncio
+ - Biatrix Venâncio
