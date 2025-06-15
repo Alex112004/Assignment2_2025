@@ -3,7 +3,7 @@
 
 Atualizar a vm:
 
-//t sudo apt update
+    sudo apt update
 
 Ativar o micromamba/conda:
 
