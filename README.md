@@ -19,6 +19,7 @@ instalar o multiqc:
     conda install multiqc
 
 instalar o docker:
+
     sudo apt install docker.io docker-compose
     sudo usermod -aG docker $USER
     
